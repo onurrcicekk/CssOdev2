@@ -1,0 +1,40 @@
+.bc{
+    background-color: rgb(233, 234, 235);
+}
+.box {
+    margin: 0 75px;
+}
+.box1 {
+    background-color: rgb(126, 229, 218);
+    width: 37%;
+
+    margin: 1px 1px 0 75px;
+    float:left;
+    height: 63px;
+    padding-top: 10px;
+   
+}
+
+.box2 {
+    background-color: rgb(112, 204, 194);
+    width: 17%;
+    float:left;
+    font-size: small;
+    margin:1px;
+    height: 73px;;
+    
+}
+.box3 {
+    background-color: rgb(98, 179, 170);
+    text-align: center;
+    margin: 1px;
+    float:left;
+    width: 35.9%;
+    font-size:small;
+    height: 69px;
+    display: table;
+}
+.footer{
+    text-align: center;
+    margin-top: 100px;
+}
